@@ -42,7 +42,7 @@ Here are some of the insights explored using SQL queries:
 
 
 🛠 Tools Used
-SQL: MySQL
+SQL: MySQL,
 DBMS: MySQL Workbench 
 
 
